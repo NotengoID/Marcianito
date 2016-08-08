@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:text="@string/bienvenida"
         android:id="@+id/textView"
-        android:textSize="42dp"
+        android:textSize="100dp"
         android:textColor="@color/colorBienvenida"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
@@ -28,7 +28,7 @@
         android:layout_height="wrap_content"
         android:text="@string/boton"
         android:id="@+id/button"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="51dp" />
+        android:textSize="36dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
